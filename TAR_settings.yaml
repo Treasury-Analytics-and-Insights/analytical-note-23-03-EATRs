@@ -1,0 +1,20 @@
+TAR: '123'
+EFU: BEFU22
+NUM_REPLICATES: 100.0
+INFLATORS_PATH: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro simulation
+  modelling of the New Zealand tax and welfare system/TAWA Data/Linked/20211020/BEFU22/Inputs/Inflators_BEFU22.xlsx
+INFLATORS_MAPPING_PATH: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro
+  simulation modelling of the New Zealand tax and welfare system/TAWA Data/Linked/20211020/BEFU22/Inputs/Mapping_BEFU22.xlsx
+SURVEY: HES18
+DB_PATH: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro simulation modelling
+  of the New Zealand tax and welfare system/TAWA Data/Linked/20211020/Databases/HES18_New_Linked_20211020.csv
+WEIGHTS_DIR: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro simulation
+  modelling of the New Zealand tax and welfare system/Users/Luke/Current analysis/2022-04-07 BEFU22/weights/period
+EXP_WEIGHTS_DIR: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro simulation modelling
+  of the New Zealand tax and welfare system/TAWA Data/Linked/20211020/BEFU22/Weights/Expenditure
+AS_DATA_DIR: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro simulation
+  modelling of the New Zealand tax and welfare system/Users/Luke/Current analysis/2022-04-07 BEFU22/AS take-up
+AS_PROB_NAME: 2022-04-22
+AS_RANDOM_NUMBERS_PATH: ~/Network-Shares/DataLabNas/MAA/MAA2015-27 IDI based micro
+  simulation modelling of the New Zealand tax and welfare system/TAWA Data/RandomNumbers_HES19_Families.csv
+TEMPLATE_PATH: Results/TAR_Release_Template.xlsx

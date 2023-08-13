@@ -1,0 +1,9 @@
+denominator - things that are not final consumption expenditure, or that might distributionally be skewed e.g. housing
+exclude from numerator and denominator.
+
+1. no exclusions
+2. exclude interest payments, savings; housing costs - rent, mortgage payments; life insurance
+3. exclude all motor vehicles (lumpy, 2nd hand vs new)
+
+education related rent is GST chargeable...
+body corp fees are not GST chargeable
